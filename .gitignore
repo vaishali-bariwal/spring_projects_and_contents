@@ -1,0 +1,8 @@
+*.jar
+*.class
+
+.settings
+.DS_Store
+.metadata/
+Servers/
+coursecontent/

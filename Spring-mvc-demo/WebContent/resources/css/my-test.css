@@ -1,0 +1,16 @@
+body {
+    background-color: lightpink;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+p {
+    font-family: verdana;
+    font-size: 20px;
+}
+ input {
+	background-color:yellow;
+}
